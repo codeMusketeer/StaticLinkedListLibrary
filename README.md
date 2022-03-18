@@ -19,6 +19,8 @@ The following points highlight what each file in this library is responsible for
 12. **removeNode.c** - This file is responsible for removing all the occurences of a particular word in the linked list.
 13. **FreeMemory.c** - This file is responsible for de-allocating all the memory taken up by the file.
 14. **makefile** - A makefile used to compile the contents of the program.
+15. **listHeader.h** - Header file with all the declarations.
+16. **lib_linkedlist.a** - Static linked list library.
 
 The above files have been tested with a test driver and memory allocation and de-allocation has been verified. 
 
